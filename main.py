@@ -1,6 +1,8 @@
 meme_dict = {
             "CRINGE": "Algo excepcionalmente raro o embarazoso",
-            "LOL": "Una respuesta común a algo gracioso", "ROFL": "una respuesta a una broma" 
+            "LOL": "Una respuesta común a algo gracioso", "ROFL": "una respuesta a una broma", "SHEESH": "algo sorprendente"
+            
+            
     
         
             }
